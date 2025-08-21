@@ -3,20 +3,21 @@
 ## About
 ```java
 class About implements Me {
-    static Dictionary<String,String> info = new Hashtable<>();
+    static Map<String, String> info = new HashMap<>();
 
-    private static void dev(){
+    private static void dev() {
         info.put("Name",                      "Mayank Sharma");
         info.put("Programming Languages",     "Core: Kotlin, Java | Familiar: C++, C#, Python");
-        info.put("Frameworks & Technologies", "Android (Native), Jetpack Compose, Unity, .Net");
+        info.put("Frameworks & Technologies", "Android (Native), Jetpack Compose, Unity, .NET");
         info.put("Currently Learning",        "Spring Boot (with Kotlin)");
         info.put("Ask Me About",              "Native Android Development, Kotlin, Java");
         info.put("Areas of Interest",         "Technology, Life Sciences, International Relations");
         info.put("Education",                 "Master of Computer Applications (MCA), Bachelor of Computer Applications (BCA)");
     }
 
-    public static void main(String[] args){
-       dev();
+    public static void main(String[] args) {
+        dev();
+        info.forEach((key, value) -> System.out.println(key + ": " + value));
     }
 }
 ```
