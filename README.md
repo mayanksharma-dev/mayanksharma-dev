@@ -24,12 +24,21 @@ class About implements Me {
 
 ## Connect with me:
 <p align="left">
+  <a href="https://www.linkedin.com/in/mayanksharma-dev/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://twitter.com/imsharma_mayank">
+    <img src="https://skillicons.dev/icons?i=twitter" />
+  </a>
+</p>
+
+<!-- <p align="left">
 <a href="https://www.linkedin.com/in/mayanksharma-dev/">
   <img alt="Mayank Sharma's LinkedIN" width="85px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://twitter.com/imsharma_mayank">
   <img alt="Mayank Sharma's Twitter" width="80px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-</a>  
+</a>   -->
 
 <!--
  <a href="@gmail.com">
@@ -52,6 +61,15 @@ class About implements Me {
 
 
 
+## Featured Application ![Platform](https://img.shields.io/badge/Platform-Android-green)  ![Status](https://img.shields.io/badge/Status-Live-success)
+
+**Package Name Scripter** – Native Android App 
+
+🔗 Google Play: https://play.google.com/store/apps/details?id=in.ms.packagenamesscripter
+
+
+
+<!--
 ## Tech Stack 
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="android studio"  width="45" height="45"/>
@@ -69,12 +87,60 @@ class About implements Me {
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="php" width="45" height="45"/>    
 </p>
 
+<h3 align="left">Languages and Tools:</h3>
+-->
+
+## Tech Stack 
+
+- Core
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio" />
+  </a>
+</p>
+
+- Backend
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=kotlin,spring" />
+  </a>
+</p>
+
+- Database
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mongodb,postgresql,sqlite" />
+  </a>
+</p>
+
+- Cloud Servers
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=azure,firebase" />
+  </a>
+</p>
+
+- Familiar
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,python" />
+  </a>
+</p>
+
+- Tools
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=androidstudio,git,github,idea,postman,unity,visualstudio,vscode" />
+  </a>
+</p>
+
 ## GitHub Stats 
 ![MayankSharma-dev's Stats](https://github-readme-stats.vercel.app/api?username=mayanksharma-dev&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)<br/>
 ![MayankSharma-dev's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mayanksharma-dev&theme=tokyonight&hide_border=true)<br/>
 ![MayankSharma-dev's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MayankSharma-dev&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
 ---
+<img src="https://count.getloli.com/@mayanksharma-dev?name=mayanksharma-dev&theme=booru-the-collection&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto">
 <!-- ![](https://komarev.com/ghpvc/?username=mayanksharma-dev) -->
 <!-- [![](https://visitcount.itsvg.in/api?id=MayankSharma-dev&icon=0&color=12)](https://visitcount.itsvg.in) -->
 
