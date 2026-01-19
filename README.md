@@ -1,6 +1,6 @@
 # नमस्ते (Namaste)🙏🏻, I am Mayank Sharma
 
-## About
+<!-- ## About -->
 ```java
 class About implements Me {
     static Map<String, String> info = new HashMap<>();
