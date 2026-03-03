@@ -9,7 +9,7 @@ class About implements Me {
         info.put("Name",                      "Mayank Sharma");
         info.put("Programming Languages",     "Core: Kotlin, Java | Familiar: C++, C#, Python");
         info.put("Frameworks & Technologies", "Android (Native), Jetpack Compose, Unity, .NET");
-        info.put("Currently Learning",        "Spring Boot (with Kotlin)");
+        info.put("Currently Learning",        "Kotlin Multiplatform, Spring Boot (with Kotlin)");
         info.put("Ask Me About",              "Native Android Development, Kotlin, Java");
         info.put("Areas of Interest",         "Technology, Life Sciences, International Relations");
         info.put("Education",                 "Master of Computer Applications (MCA), Bachelor of Computer Applications (BCA)");
