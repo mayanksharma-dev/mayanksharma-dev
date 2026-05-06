@@ -24,9 +24,9 @@ class About implements Me {
 
 ## Connect with me:
 <p align="left">
-  <a href="https://www.linkedin.com/in/mayanksharma-dev/">
+  <!-- <a href="https://www.linkedin.com/in/mayanksharma-dev/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
+  </a> -->
   <a href="https://twitter.com/imsharma_mayank">
     <img src="https://skillicons.dev/icons?i=twitter" />
   </a>
